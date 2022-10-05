@@ -9,7 +9,7 @@ inherit gnome2-utils python-any-r1 waf-utils xdg-utils
 
 DESCRIPTION="Application for the schematic capturing and simulation of electrical circuits"
 HOMEPAGE="https://github.com/drahnr/oregano"
-SRC_URI="https://github.com/ktrace/oregano/archive/v${PV}.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://github.com/drahnr/oregano/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 
 LICENSE="GPL-2+"
 SLOT="0"
